@@ -9,6 +9,10 @@
 * Display SevenSegmentTM1637
 
 
+The device use an Arduino Mega2560 R3.
+
+Made with <3 in Buenos Aires, Argentina, 2015.
+
 
 
 
