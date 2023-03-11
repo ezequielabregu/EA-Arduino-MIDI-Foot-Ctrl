@@ -13,7 +13,7 @@ The device use an Arduino Mega2560 R3.
 
 Made with <3 in Buenos Aires, Argentina, 2015.
 
-![](EA_midi_control.jpg)
+![](EA_midi_control_new.jpg)
 
 
 
